@@ -24,8 +24,8 @@
 <h3>Github Stats</h3>
 <div align="center">
   <a href="https://github.com/tarsibfritz"/>
-    <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-    <img width="49%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=aura_dark"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
 
 
