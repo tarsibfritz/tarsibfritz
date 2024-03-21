@@ -12,6 +12,12 @@
 
   - 🔭 Estou à procura da minha primeira oportunidade de emprego.
 </p>
+<!-- Connect -->
+<div>
+  <a href = "mailto:tarsilabarrosfritz05@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tarsibfritz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/fritz.tarsila/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <!-- Status -->
 <h3>Github Stats</h3>
@@ -20,6 +26,7 @@
     <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
+
 
 <!-- Skills -->
 <h3>Skills</h3>
@@ -30,15 +37,8 @@
 <img align="center" alt="Tarsi-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Tarsi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
-    
-<h3>Connect with me</h3>
 
-<div>
-  <a href = "mailto:tarsilabarrosfritz05@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tarsibfritz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/fritz.tarsila/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
+<hr/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake.svg">
