@@ -1,9 +1,10 @@
 ## Olá! Eu sou a  Tarsila!
 <div>
   <a href="https://github.com/tarsibfritz"/>
-    <img height="150em"src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=jolly"/>
+    <img height="150em"src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Tarsi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Tarsi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -12,7 +13,7 @@
   <img align="center" alt="Tarsi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
     
-##
+<h3>Connect with me</h3>
 
 <div>
   <a href = "mailto:tarsilabarrosfritz05@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
