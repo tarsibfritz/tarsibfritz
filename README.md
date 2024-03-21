@@ -1,7 +1,7 @@
 ## Olá! Eu sou a  Tarsila!
 <div>
   <a href="https://github.com/tarsibfritz"/>
-    <img height="150em" width="20em" src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="150em" width="200em" src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 <div style="display: inline_block"><br>
