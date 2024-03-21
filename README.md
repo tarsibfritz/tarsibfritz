@@ -1,17 +1,26 @@
-<!--Title-->
+<!-- Title -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<!--Presentation-->
-    
+<!-- Presentation -->
+<p>
+  Oie 👋, meu nome é Tarsila ! Uma entusiasta da tecnologia e futura programadora FullStack.
+
+  - 🌱 Atualmente estou cursando Engenharia de Software e Gestão da Tecnologia da Informação na Universidade Norte Paraná (Unopar).
+
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+</p>
+
+<!-- Status -->
 <div>
   <a href="https://github.com/tarsibfritz"/>
     <img height="150em"src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
-    
+
+<!-- Skills -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Tarsi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Tarsi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
