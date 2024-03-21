@@ -6,22 +6,24 @@
     
 <!-- Presentation -->
 <p>
-  Oie 👋, meu nome é Tarsila ! Uma entusiasta da tecnologia e futura programadora FullStack.
+  Olá 👋, meu nome é Tarsila ! Uma entusiasta da tecnologia e futura programadora FullStack.
 
-  - 🌱 Atualmente estou cursando Engenharia de Software e Gestão da Tecnologia da Informação na Universidade Norte Paraná (Unopar).
+  - 🌱 Atualmente estou estudando Engenharia de Software e Gestão de Tecnologia da Informação na Universidade Norte Paraná (Unopar).
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego.
+  - 🔭 Estou à procura da minha primeira oportunidade de emprego.
 </p>
 
 <!-- Status -->
+<h3>Github Stats</h3>
 <div align="center">
   <a href="https://github.com/tarsibfritz"/>
-    <img height="150em"src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=aura_dark"/>
+    <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=aura_dark"/>
 </div>
 
 <!-- Skills -->
-<div style="display: inline_block"><br>
+<h3>Skills</h3>
+<div style="display: inline_block">
   <img align="center" alt="Tarsi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Tarsi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="Tarsi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
