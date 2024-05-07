@@ -8,7 +8,7 @@
 <p>
   Olá 👋, meu nome é Tarsila! Uma entusiasta da tecnologia e futura programadora FullStack.
 
-  - 🌱 Atualmente estou estudando Engenharia de Software e Gestão de Tecnologia da Informação na Universidade Norte do Paraná (Unopar).
+  - 🌱 Atualmente estou estudando Engenharia de Software na Universidade Norte do Paraná (Unopar).
 
   - 🔭 Estou à procura da minha primeira oportunidade de emprego.
 </p>
