@@ -1,8 +1,13 @@
 <h1>👋 Hello, I'm Tarsila!</h1>
 
-<p>I'm a technology enthusiast and Software Engineering student, focused on Web Development. In my free time, I enjoy drawing, exploring creative projects, and occasionally diving into game development.</p>
-
- <img src="https://tenor.com/view/aesthetic-discord-header-gif-26473588"/>
+<p style="display: flex; align-items: center;">
+  <span style="flex: 1; padding-right: 10px;">
+    I'm a technology enthusiast and Software Engineering student, focused on Web Development. In my free time, I enjoy drawing, exploring creative projects, and occasionally diving into game development.
+  </span>
+  <span style="flex: 1;">
+    <img src="https://media1.tenor.com/m/3h6HKwfxn1MAAAAC/aesthetic-discord.gif" alt="Aesthetic GIF" style="max-width: 100%; height: auto;"/>
+  </span>
+</p>
 
 <h2>Currently studying...</h2>
 <p>
@@ -13,19 +18,4 @@
   <img align="center" alt="Tarsi-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
-<!-- Status -->
-<h3 align="center">Stats</h3>
-<p align="center">
-  <a href="https://github.com/tarsibfritz">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Tarsila's GitHub stats"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=radical" alt="Top Languages"/>
-  </a>
-</p>
 
-<hr/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake.svg">
-</picture>
