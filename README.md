@@ -10,4 +10,19 @@
   <img align="center" alt="Tarsi-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 </p>
 
+<!-- Status -->
+<h2>Stats</h2>
+<p align="center">
+  <a href="https://github.com/tarsibfritz">
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Tarsila's GitHub stats"/>
+    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=radical" alt="Top Languages"/>
+  </a>
+</p>
 
+<hr/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tarsibfritz/tarsibfritz/output/github-contribution-grid-snake.svg">
+</picture>
