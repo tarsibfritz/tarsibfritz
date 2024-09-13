@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/tarsibfritz">
     <img width="46%" src="https://github-readme-stats.vercel.app/api?username=tarsibfritz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Tarsila's GitHub stats"/>
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=radical" alt="Top Languages"/>
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibfritz&layout=compact&langs_count=16&theme=radical" alt="Top Languages"/>
   </a>
 </p>
 
