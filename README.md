@@ -10,7 +10,6 @@
   <img align="center" alt="Tarsi-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 </p>
 
-<!-- Status -->
 <h2>Stats</h2>
 <p align="center">
   <a href="https://github.com/tarsibfritz">
